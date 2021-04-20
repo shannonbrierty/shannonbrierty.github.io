@@ -6,8 +6,8 @@ body {
   
 h1 {
   color: rgb(220, 200 ,189);
-  font-size: 3em; 
-  margin: 0.5em, 2em, 0.5em, 2em;
+  font-size: (3em); 
+  margin: (0.5em, 2em, 0.5em, 2em);
 }
   
 h2 {
