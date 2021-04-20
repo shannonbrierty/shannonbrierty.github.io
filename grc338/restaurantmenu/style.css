@@ -3,10 +3,13 @@ body {
   background-color: rgb(181, 189, 165);
   
 h1 {
-  Color: rgb(0, 0, 255);
-  Font-size: 3em;
+  color: rgb(0, 0, 255);
+  font-size: 3em; 
+  margin: 0.5em, 2em, 0.5em, 2em;
 }
+  
 h2 {
   Color: rgb(255, 0, 0)
-  Font-size: 2em;
+  font-size: 2em;
+  margin: 0.5em, 2em, 0.5em, 2em;
 }
