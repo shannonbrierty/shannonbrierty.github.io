@@ -1,9 +1,12 @@
 /*CSS DOCUMENT*/
-h1{
-  Color: (0, 0, 255);
+body {
+  background-color: rgb(181, 189, 165);
+  
+h1 {
+  Color: rgb(0, 0, 255);
   Font-size: 3em;
 }
-h2{
-  Color: (255, 0, 0)
+h2 {
+  Color: rgb(255, 0, 0)
   Font-size: 2em;
 }
