@@ -1,4 +1,5 @@
 /*CSS DOCUMENT*/
+
 body {
   background-color: rgb(181, 189, 165);
 }
@@ -10,7 +11,7 @@ h1 {
 }
   
 h2 {
-  Color: rgb(255, 0, 0)
+  color: rgb(255, 0, 0)
   font-size: 2em;
   margin: 0.5em, 2em, 0.5em, 2em;
 }
