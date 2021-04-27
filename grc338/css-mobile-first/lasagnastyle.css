@@ -10,10 +10,10 @@ img {
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 body {
     padding: 1em;
-    background-color: rgb(171, 82, 53)
+    background-color: rgb(226, 217, 197)
 }       
 header { 
-    background-color: rgb(226, 217, 197)
+    background-color: rgb(219, 171, 133)
 }        
 h1,h2,h3,li {
     margins: 1em 0;
