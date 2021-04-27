@@ -11,13 +11,8 @@ img {
 body {
     padding: 1em;
     background-color: rgb(226, 217, 197)
-    font-family: "droid-sans", sans-serif;
     margin: 2em;   
 }  
-figure {
-    font-size: .8em;
-    font-style: italic;
-}
 h1 {
     line-height: 1em;
     font-size: 3em;
