@@ -10,8 +10,9 @@ img {
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 body {
     padding: 1em;
-    background-color: rgb(226, 217, 197)
-    margin: 2em;   
+    background-color: rgb(226, 217, 197);
+    margin: 2em;  
+    padding: 0.5em;
 }  
 h1, h2 {
     text-align: center;
@@ -36,13 +37,13 @@ h3 {
     color: rgb(111, 119, 20);    
 }
 header { 
-    background-color: rgb(219, 171, 133)
+    background-color: rgb(219, 171, 133);
     padding-bottom: 1em;
     padding-top: 1em;
     padding-left: 1em;
 }        
 li {
-    list-style-type: none
+    list-style-type: none;
 }        
 footer {
     font-style: italic;
