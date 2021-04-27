@@ -28,10 +28,21 @@ h2 {
 h3 {
     font-size: 1.25em;
     margin-top: 1em;
-    color: rgb(209, 107, 21);    
+    color: rgb(111, 119, 20);    
+}
+section{
+    background-color: rgb(219, 171, 133);
+    color: rgb(139, 52, 34);
+    padding-left: 2em;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-bottom: 1em;
 }
 header { 
     background-color: rgb(219, 171, 133)
+    padding-bottom: 1em;
+    padding-top: 1em;
+    padding-left: 1em;
 }        
 li {
     list-style-type: none
