@@ -1,0 +1,53 @@
+/*CSS DOCUMENT*/
+
+
+html, body, div, span, applet, object, iframe,h1, h2, h3, h4, h5, h6, p, blockquote, pre,a, abbr, acronym, address, big, cite, code,del, dfn, em, img, ins, kbd, q, s, samp,small, strike, strong, sub, sup, tt, var,b, u, i, center,dl, dt, dd, ol, ul, li,fieldset, form, label, legend,table, caption, tbody, tfoot, thead, tr, th, td,article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary,time, mark, audio, video {margin: 0;	padding: 0;	border: 0;	vertical-align: baseline;} /*My edited version of the Eric Meyer’s reset tool. Feel free to keep it or delete it. */
+
+img {
+    width: 100%; /*Please leave this line.*/
+}
+
+/*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
+body {
+    padding: 1em;
+    background-color: rgb(226, 217, 197);
+    margin: 2em;  
+    padding: 0.5em;
+}  
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    line-height: 1em;
+    font-size: 3em;
+    color: rgb(139, 52, 34);
+}
+h2 {
+    font-size: 1em;
+    font-weight: 100;
+    font-style: italic;
+    margin-top: .5em;
+    margin-bottom: .75em;
+    color: rgb(139, 52, 34);
+}
+h3 {
+    font-size: 1.25em;
+    margin-top: 1em;
+    color: rgb(111, 119, 20);    
+}
+header { 
+    background-color: rgb(219, 171, 133);
+    color: rgb(111, 119, 20);    
+    padding-bottom: 1em;
+    padding-top: 1em;
+    padding-left: 1em;
+}        
+li {
+    list-style-type: none;
+}        
+footer {
+    font-style: italic;
+    padding-left: 0.5em;
+    color: rgb(111, 119, 20);    
+}    
