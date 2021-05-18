@@ -26,7 +26,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: rgb(197, 152, 255);
+    color: rgb(96, 42, 49);
     text-decoration: none;
 }
 
@@ -41,8 +41,8 @@ p{
 }
 
 ul{
-    color: rgb(197, 152, 255);
-    background-color: rgb(218, 241, 236);
+    color: rgb(96, 42, 49);
+    background-color: rgb(223, 209, 210);
     padding-top: 0.5em;
     padding-bottom: 0.5em;
 }
