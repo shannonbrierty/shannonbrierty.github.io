@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 75%;
+    width: 25%;
     margin-top: 1em;
     margin-bottom: 1em;
     padding top: 1.5em;
@@ -32,12 +32,12 @@ nav ul li a{
 
 h1,h2,h3{
     font-family: sans-serif;
-    color: rgb(197, 152, 255);
+    color: rgb(96, 42, 49);
 }
 
 p{
     font-family: sans-serif;
-    color: rgb(197, 152, 255);
+    color: rgb(96, 42, 49);
 }
 
 ul{
@@ -48,6 +48,6 @@ ul{
 }
 
 body{
-    background-color: rgb(232, 206, 198);
+    background-color: rgb(223, 209, 210);
 }
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
