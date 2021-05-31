@@ -10,8 +10,8 @@ padding: 0.5em;
 word-spacing:1em;
 }
 nav ul li{
-font-family: birra-2, serif;
-font-weight: 700;
+font-family: le-havre-rounded, sans-serif;
+font-weight: 300;
 font-style: normal;
 font-size: 2em;
 display: inline;
@@ -36,7 +36,6 @@ font-size: 2em;
 display: inline;
 list-style-type: none;
 color: rgb(96, 42, 49);
-width:70%;
 padding top: 1.5em;
 padding bottom: 1.5em;
 padding left: 1em;
@@ -86,15 +85,6 @@ color:rgb(96, 42, 49);
 }
 figure{
 margin:0;
-}
-footer{
-font-family: le-havre-rounded, sans-serif;
-font-weight: 300;
-font-style: normal;
-color: rgb(96, 42, 49;
-background-color:rgb(96, 42, 49);
-margin-top:0.5em;
-padding: 0.5em;
 }
 @media screen and (min-width: 40em) {
 html{
