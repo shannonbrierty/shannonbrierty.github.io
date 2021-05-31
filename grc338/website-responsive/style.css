@@ -1,7 +1,7 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 25%;
+    width: 100%;
     margin-top: 1em;
     margin-bottom: 1em;
     padding top: 1.5em;
@@ -10,11 +10,7 @@ img {
 	padding right: 1em;
 }
 
-figure{
-    margin-left: 0em;
-}
-
-nav ul li{
+nav ul li a{
     display: inline;
     list-style-type: none;
     margin-top: 1em;
@@ -22,11 +18,8 @@ nav ul li{
     font-family: sans-serif;
     font-weight: bold;
     font-size: 1.4em;
-    letter-spacing: 0.05em;
-}
-
-nav ul li a{
     color: rgb(96, 42, 49);
+    letter-spacing: 0.05em;
     text-decoration: none;
 }
 
@@ -49,5 +42,11 @@ ul{
 
 body{
     background-color: rgb(223, 209, 210);
+}
+@media screen and (min-width: 40em) {
+html{
+max-width: 60em;
+margin: auto;
+}
 }
 /*Please don’t change this CSS stylesheet for the content hierarchy assginment */
