@@ -24,7 +24,7 @@ h1{
 font-family: birra-2, serif;
 font-weight: 700;
 font-style: normal;
-font-size: 2em;
+font-size: 3em;
 display: inline;
 list-style-type: none;
 color: rgb(96, 42, 49);
@@ -67,7 +67,7 @@ padding: 0;
 border: 0;
 color:rgb(96, 42, 49);
 }
-p,a{
+p{
 font-family: le-havre-rounded, sans-serif;
 font-weight: 300;
 font-style: normal;
