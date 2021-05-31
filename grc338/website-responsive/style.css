@@ -6,11 +6,17 @@ body{
 background-color: rgb(223, 209, 210);
 }
 nav ul{
+font-family: birra-2, serif;
+font-weight: 700;
+font-style: normal;
 padding: 0.5em;
 word-spacing:1em;
 color: rgb(96, 42, 49)  
 }
 nav ul li{
+font-family: birra-2, serif;
+font-weight: 700;
+font-style: normal;
 font-size: 1.5em;
 display: inline;
 list-style-type: none;
