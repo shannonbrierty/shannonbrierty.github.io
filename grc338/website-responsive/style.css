@@ -1,9 +1,27 @@
 /*CSS DOCUMENT*/
+/*CSS DOCUMENT*/
 img {
 width: 100%; 
 }
 body{
 background-color: rgb(223, 209, 210);
+}
+nav ul{
+font-family: le-havre-rounded, sans-serif;
+font-weight: 300;
+font-style: normal;
+padding: 0.5em;
+word-spacing:1em;
+color: rgb(96, 42, 49)  
+}
+nav ul li{
+font-family: le-havre-rounded, sans-serif;
+font-weight: 300;
+font-style: normal;
+font-size: 1.5em;
+display: inline;
+list-style-type: none;
+color: rgb(96, 42, 49);
 }
 nav ul li a{
 font-family: birra-2, serif;
@@ -24,7 +42,7 @@ h1{
 font-family: birra-2, serif;
 font-weight: 700;
 font-style: normal;
-font-size: 3em;
+font-size: 2em;
 display: inline;
 list-style-type: none;
 color: rgb(96, 42, 49);
@@ -67,7 +85,7 @@ padding: 0;
 border: 0;
 color:rgb(96, 42, 49);
 }
-p{
+p,a{
 font-family: le-havre-rounded, sans-serif;
 font-weight: 300;
 font-style: normal;
@@ -86,3 +104,4 @@ max-width: 60em;
 margin: auto;
 }
 }
+
