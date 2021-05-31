@@ -29,6 +29,13 @@ font-weight: 300;
 font-style: normal;
 }
 h1{
+font-family: birra-2, serif;
+font-weight: 700;
+font-style: normal;
+font-size: 2em;
+display: inline;
+list-style-type: none;
+color: rgb(96, 42, 49);
 width:70%;
 padding top: 1.5em;
 padding bottom: 1.5em;
