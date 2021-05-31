@@ -26,7 +26,7 @@ nav ul li a{
 font-family: birra-2, serif;
 font-weight: 700;
 font-style: normal;
-font-size: 4em;
+font-size: 2em;
 text-decoration: none;
 color: rgb(96, 42, 49);
 }
@@ -35,12 +35,13 @@ padding:1em;
 font-family: le-havre-rounded, sans-serif;
 font-weight: 300;
 font-style: normal;
+color: rgb(96, 42, 49);
 }
 h1{
 font-family: birra-2, serif;
 font-weight: 700;
 font-style: normal;
-font-size: 4em;
+font-size: 2em;
 display: inline;
 list-style-type: none;
 color: rgb(96, 42, 49);
@@ -75,11 +76,13 @@ margin: 0;
 padding: 0;
 padding-top: 0.5em;
 border: 0;
+color:rgb(96, 42, 49);
 }
 ul{
 margin: 0;
 padding: 0;
 border: 0;
+color:rgb(96, 42, 49);
 }
 p,a{
 font-family: le-havre-rounded, sans-serif;
